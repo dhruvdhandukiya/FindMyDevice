@@ -7,7 +7,7 @@ Also Includes Progressive WebApp support for Offline Access with Limited Feature
 ---
 
 ## Website URL  
-https://dhruvdhandukiya.github.io/FindMyDevice/
+[https://dhruvdhandukiya.github.io/FindMyDevice/](https://github.com/dhruvdhandukiya/FindMyDevice)
 
 ---
 
