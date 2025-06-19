@@ -12,9 +12,9 @@ https://dhruvdhandukiya.github.io/FindMyDevice/
 ---
 
 ## Screenshots  
-![Home Page](assets/image.png)
+![Home Page](assets/Home_Page.png)
 
-![Device Status](assets/image-1.png)
+![Device Status](assets/Device_Status.png)
 
 ---
 
