@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Find My Device</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Material+Icons" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">Find My Device</div>
+  </header>
+
+  <main>
+    <section class="input-section">
+      <h1>Track Your Device Location</h1>
+      <p>Click the button below to get your current location.</p>
+      <div class="input-group">
+        <button class="find-button" id="getLocationBtn">
+          <span class="material-icons">my_location</span>
+          Get Location
+        </button>
+      </div>
+    </section>
+
+    <section class="map-section">
+      <div id="map"></div>
+    </section>
+
+    <section class="device-info">
+      <h2>Your Device</h2>
+      <div class="info-row">
+        <span class="material-icons">phone_iphone</span>
+        <span id="deviceNumberDisplay">+91-XXXXXXXXXX</span>
+      </div>
+      <div class="info-row">
+        <span class="material-icons">location_on</span>
+        <span id="deviceCoords">N/A</span>
+      </div>
+      <div class="info-row">
+        <span class="material-icons">schedule</span>
+        <span id="deviceLastSeen">N/A</span>
+      </div>
+      <div class="info-row">
+        <span class="material-icons">battery_full</span>
+        <span id="deviceBattery">N/A</span>
+      </div>
+      <div class="info-row">
+        <span class="material-icons" id="deviceStatusIcon">wifi</span>
+        <span id="deviceStatus">Offline</span>
+        <span id="deviceStatusBadge" class="status-badge offline">Offline</span>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
