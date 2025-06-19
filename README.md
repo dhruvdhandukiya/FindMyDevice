@@ -12,10 +12,12 @@ https://dhruvdhandukiya.github.io/FindMyDevice/
 ---
 
 ## Screenshots  
-![image](https://github.com/user-attachments/assets/0ae0bcc3-af73-4ea9-b44a-349dc1464378)
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/a9f40cf8-b6eb-4e3b-a082-2d4931584c9b" />
 
 
-![image](https://github.com/user-attachments/assets/5aa280ee-1e7b-41c8-9c12-4a9d30139c6d)
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/2c9d746d-1fdd-4a3d-a5e5-8ae65b891efa" />
+
 
 
 ---
