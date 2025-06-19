@@ -12,16 +12,18 @@ https://dhruvdhandukiya.github.io/FindMyDevice/
 ---
 
 ## Screenshots  
-![Home Page](assets/Home_Page.png)
+![image](https://github.com/user-attachments/assets/0ae0bcc3-af73-4ea9-b44a-349dc1464378)
 
-![Device Status](assets/Device_Status.png)
+
+![image](https://github.com/user-attachments/assets/5aa280ee-1e7b-41c8-9c12-4a9d30139c6d)
+
 
 ---
 
 ## Features  
 - Real-time Geolocation Fetch  
 - Progressive Web App  
-- Light/dark mode (optional future support)  
+- Light/dark mode 
 - Cross-platform support  
 
 ---
